@@ -25,7 +25,7 @@ stopwords anglais (NLTK) et de la ponctuation, puis split 80/20 train/test.
 - Évaluation : accuracy sur train et test (seuil à 0.5).
 
 "
-python spam_classifier.py --data chemin/vers/Spam_SMS.csv --lr 0.1 --epochs 10
+python spam_classifier.py chemin
 "
 
 ## `naive_bayes.py` — Naive Bayes
