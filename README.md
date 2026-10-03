@@ -83,3 +83,6 @@ pip install -r requirements.txt
 - Ajuster le seuil de décision de la régression logistique (0,5 par défaut) pour regagner du rappel sur les spams, au prix de quelques faux positifs.
 - Ajouter de la régularisation (L2) à la régression logistique.
 - Vectoriser la régression logistique avec NumPy pour accélérer l'entraînement.
+
+
+Projet personnel réalisé par Issouf Idriss Ouattara, étudiant en Master 2 NLP UGA
